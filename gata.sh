@@ -202,11 +202,11 @@ echo -e "\e[35m
 ╚═╝░░╚═╝░░  ░╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝  ╚═════╝░░╚════╝░░░░╚═╝░░░\n\e[0m"
 
 echo -e "\033[1;35m"
-git clone https://github.com/GataNina-Li/GataBot-MD.git
+git clone https://github.com/Sniperghost662009/SnipeBot.git
 echo -e "\033[01;32m\033[01mLa clonación se ha descargado e instalado correctamente.\nThe clone has been downloaded and installed successfully.\n\033[0m"
 
 echo -e "\033[01;32m\033[01mCambiando al directorio del repositorio!!\nChanging to the repository directory!!\n\033[0m" 
-cd GataBot-MD
+cd SnipeBot
 
 echo -e "\e[36m
 ██╗░░░██╗██████╗░██████╗░░█████╗░████████╗███████╗  ██╗░░░██╗░█████╗░██████╗░███╗░░██╗
@@ -249,7 +249,7 @@ v1="${b}\033[32m"
 b="\033[0m"
 
 menu() {
-	#GataBot-MD
+	#SnipeBot
 	echo -e "${v1} MENÚ DE CONFIGURACIÓN"
 	printf "\n"
 	printf "${v1}[${b}01${v1}]${v} Visistar Grupo de Actualizaciones\n"
@@ -263,7 +263,7 @@ menu() {
 }
 
 menu_ayuda() {
-    #printf "${v1}[${b}++${v1}]${v} GataBot-MD${b}: "
+    #printf "${v1}[${b}++${v1}]${v} SnipeBot${b}: "
 	read opcion
 	case $opcion in
             01|1)
