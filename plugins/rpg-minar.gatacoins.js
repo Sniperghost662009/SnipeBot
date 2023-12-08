@@ -32,7 +32,7 @@ let minar = `${pickRandom(['Que pro 😎 has minado',
 '👾 Gracias a que has minado tus ingresos suman',
 'Felicidades!! Ahora tienes','⛏️⛏️⛏️ Obtienes'])}`
 
-let pp = 'https://media.tvalacarta.info/programas/0/clantve/44-gatos/aida-la-gata-robot.jpg'
+let pp = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fes%2Fimages%2Fpixel-art-game-currency-coin-pixel-art-dollar-coins%2F589909831&psig=AOvVaw0r0iIfCEwdJC4CrhKFEnNG&ust=1702095744690000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODR6_P-_oIDFQAAAAAdAAAAABAD'
 
 let aqua = `${pickRandom([0, 2, 3, 1, 5])}` * 1
 let aquapremium = `${pickRandom([2, 4, 6, 7, 5, 9])}` * 1
