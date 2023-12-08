@@ -13,7 +13,7 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 global.owner = [
 ["524922108173", '𝙊𝙬𝙣𝙚𝙧 ', true], //Snipe𝘽𝙤𝙩-𝙈𝘿 
 ["5491133668256"], 
-["93722692546"], 
+["524922108173"], 
 ["5491156673266"], 
 ["+18199751245"],
 ["51948705559"],
@@ -101,10 +101,10 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["", 'Gata Dios 💻', 1], 
+["", 'SnipeBot 💻', 1], 
 ["18199751245", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ["18199751245", '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["18199751245", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+["18199751245", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼r 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
 ["5491173694367", 'Prueba', 1]]
 
 global.mail = '' //agrega tú correo
@@ -121,10 +121,10 @@ global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
 global.gt = "Snipe𝘽𝙤𝙩-𝙈𝘿"
-global.yt = "https://youtube.com/@gatadios"
+global.yt = "https://youtube.com"
 global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s"
-global.ig = "https://www.instagram.com/gata_dios"
-global.md = "https://github.com/GataNina-Li/GataBot-MD"
+global.ig = "https://www.instagram.com"
+global.md = "https://github.com/Sniperghost662009/SnipeBot"
 global.fb = "https://www.facebook.com/groups/872989990425789/"
 
 global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //CANAL UPDATE
@@ -141,7 +141,7 @@ global.nnnttt3 = 'https://chat.whatsapp.com/LVocHnQjrci6dM4TZdmhBH' //Grupo 8 CO
 global.nnnttt4 = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo 9 COL
 global.nnnttt5 = 'https://chat.whatsapp.com/HOCsvLox0Ui7cwzTCeFhPP' //A.T.M.M
 global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/50660400020' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/524922108173' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
