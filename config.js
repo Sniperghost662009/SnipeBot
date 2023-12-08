@@ -102,7 +102,7 @@ global.moment = moment
 
 global.official = [ // Agregate si eres Owner
 ["", 'SnipeBot 💻', 1], 
-["18199751245", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+["524922108173", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ["18199751245", '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
 ["18199751245", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼r 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
 ["5491173694367", 'Prueba', 1]]
@@ -110,7 +110,7 @@ global.official = [ // Agregate si eres Owner
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.country = '🇲🇽' //agrega tú país ejemplo: 🇪🇨
 
 global.packname = "Snipe𝘽𝙤𝙩-𝙈𝘿 "
 global.author = "SNIPE"
