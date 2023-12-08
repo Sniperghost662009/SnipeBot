@@ -8,7 +8,7 @@ Snipe𝘽𝙤t-𝙈𝘿
 *wa.me/18199751245*
 *---------------------*
 
-*CENTER GATABOT*
+*CORREO*
 *snipe7939@gmail.com*
 
 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
