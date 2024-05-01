@@ -12,21 +12,21 @@ let msg = generateWAMessageFromContent(m.chat, {
         },
         interactiveMessage: proto.Message.InteractiveMessage.create({
           body: proto.Message.InteractiveMessage.Body.create({
-            text: "Menu"
+            text: "test"
           }),
           footer: proto.Message.InteractiveMessage.Footer.create({
-            text: "Menu"
+            text: "test"
           }),
           header: proto.Message.InteractiveMessage.Header.create({
-            title: "Menu",
-            subtitle: "Menu",
+            title: "test",
+            subtitle: "test",
             hasMediaAttachment: false
           }),
           nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
             buttons: [
               {
                 "name": "single_select",
-                "buttonParamsJson": "{\"restringir , restrict, descripcion: bot.restrict ? Activado || Activated ❌ Desactivado || Disabled'Permisos para el Bot\":\"title\",\"sections\":[{\"title\":\"title\",\"highlight_label\":\"label\",\"rows\":[{\"header\":\"header\",\"title\":\"title\",\"description\":\"description\",\"id\":\"id\"},{\"header\":\"header\",\"title\":\"title\",\"description\":\"description\",\"id\":\"id\"}]}]}"
+                "buttonParamsJson": "{\"restringir , restrict, descripcion: bot.restrict  Activado Activated ❌ Desactivado || Disabled permisos para el Bot\":\"title\",\"sections\":[{\"title\":\"title\",\"highlight_label\":\"label\",\"rows\":[{\"header\":\"header\",\"title\":\"title\",\"description\":\"description\",\"id\":\"id\"},{\"header\":\"header\",\"title\":\"title\",\"description\":\"description\",\"id\":\"id\"}]}]}"
           
               }
            ],
